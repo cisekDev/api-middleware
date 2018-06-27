@@ -16,5 +16,3 @@ def response420():
         i = i+1
     return jsonify(result)
 
-app.run()
-
